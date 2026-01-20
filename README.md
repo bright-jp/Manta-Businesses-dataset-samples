@@ -1,4 +1,4 @@
-# Manta Businesses Dataset Sample
+# Manta Businesses データセットサンプル
 
 <h2>1,547件のレコードからなるサンプルデータセット</h2>
 
