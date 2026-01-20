@@ -3,7 +3,7 @@
 <h2>1,547件のレコードからなるサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Manta-Businesses-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Manta-Businesses-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Manta Businesses Dataset Sample** には **1,547件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
